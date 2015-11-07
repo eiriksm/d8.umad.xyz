@@ -1,0 +1,10 @@
+uuid: caf72243-e5fc-4dcc-8e00-abdc5e982ac5
+langcode: en
+status: false
+dependencies:
+  module:
+    - block_content
+id: block_content.full
+label: Full
+targetEntityType: block_content
+cache: true
